@@ -15,14 +15,14 @@
     "react": "^16.10.2",
     "react-d3-cloud": "^0.7.0",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-wordcloud": "^1.1.1",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
     "cross-port-killer": "^1.2.1",
-    "ngrok": "^3.2.7"
+    "ngrok": "^5.0.0-beta.2"
   },
   "eslintConfig": {
     "extends": "react-app"
